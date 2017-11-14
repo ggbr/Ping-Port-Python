@@ -7,6 +7,6 @@ caso tenha o python 2 e o python 3 instalado é recomendado que execute da forma
 
 Como usar 
 
-# ./cron.py <host> <porta>
+# ./cron.py host porta
  exemplo de uso 
 # ./cron.py 127.0.0.1 80
